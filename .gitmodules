@@ -1,0 +1,8 @@
+[submodule "IoT-miniproject-2-device"]
+	path = IoT-miniproject-2-device
+	url = https://github.com/matluuk/IoT-miniproject-2-device.git
+	branch = main
+[submodule "IoT-miniproject-2-Coap-Server"]
+	path = IoT-miniproject-2-Coap-Server
+	url = https://github.com/matluuk/IoT-miniproject-2-Coap-Server.git
+	branch = main
