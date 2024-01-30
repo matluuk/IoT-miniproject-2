@@ -50,6 +50,10 @@ Information about projects CoAp server can be found from submodules IoT-miniproj
 
 I managed to create working location tracker with basic functionalities. Further development of the project would be easy as the tracker application is modular and has advanced event handling between modules. 
 
-I didn't have time to implement all desired features. Biggest missing feature is the lack of movement sensing on location tracker. Other features, that would be create for the location tracker would be battery level indication and temperature data.
+I didn't have time to implement all planned features. Biggest missing feature is the lack of movement sensing on the location tracker. Other features, that would be create for the location tracker would be battery level indication and temperature data.
+
+The website to see the locaiton data is good enough for this project, but it is far away from a good truely usable website. For example the website uses plain http server, and it is not therefore secure. It doesnät have any login system to reduce unwanted traffic and overally it is very basic. 
+
+## Testing
 
 I had time to create some unittests for the CoAp server, but there are no tests for the tracker application itself. For the device, all testing was manual. Inorder to develop the tracker further, excessive testing for the tracker application would also be needed.
