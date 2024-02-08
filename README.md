@@ -4,7 +4,7 @@ This is a repository for a for Mini project 2 for Internet of Things - Universio
 
 # Project idea
 
-The idea of this project is to develop a simple location tracker for a bike. 
+The idea of this project is to develop a simple location tracker for a bike/e-scooter. 
 
 The device should be able to work multiple days continuosly.
 
