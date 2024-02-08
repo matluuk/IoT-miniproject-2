@@ -14,7 +14,7 @@ Two device modes would be implemented. Active mode for continuous location searc
 
 A website would be made for watching the bike location ands changing the tracker settings such as device mode and time between periodic location searchs.
 
-# inspiration for the project
+# inspiration for code
 
 This projects is built on top of Nordic semiconductor's course: [link](https://academy.nordicsemi.com/courses/cellular-iot-fundamentals/)
 The nordic semiconductor example application [asset_tracker_v2](https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/nrf/applications/asset_tracker_v2/README.html) is used as a inspiration. I took inspiration especially for the application module design and event handling, as I didn't have much experience in these parts of the embedded software development.
@@ -44,7 +44,7 @@ Information of the Thingy:91 application can be found on the submodules IoT-mini
 
 # CoAp server readme
 Information about projects CoAp server can be found from submodules IoT-miniproject-2-Coap-Server readme.
-[link](https://github.com/matluuk/IoT-miniproject-2-device?tab=readme-ov-file#iot-miniproject-2)
+[link](https://github.com/matluuk/IoT-miniproject-2-Coap-Server/tree/main?tab=readme-ov-file#iot-miniproject-2-coap-server)
 
 # Project outcome
 
