@@ -44,7 +44,7 @@ Information of the Thingy:91 application can be found on the submodules IoT-mini
 
 # CoAp server readme
 Information about projects CoAp server can be found from submodules IoT-miniproject-2-Coap-Server readme.
-[link](https://github.com/matluuk/IoT-miniproject-2-device?tab=readme-ov-file#iot-miniproject-2)
+[link](https://github.com/matluuk/IoT-miniproject-2-Coap-Server/tree/main?tab=readme-ov-file#iot-miniproject-2-coap-server)
 
 # Project outcome
 
